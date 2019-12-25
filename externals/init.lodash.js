@@ -1,0 +1,1 @@
+var _ = typeof _ === "undefined" ? window._ : _;
